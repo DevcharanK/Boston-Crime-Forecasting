@@ -1,0 +1,9 @@
+The analysis was broken into the following steps.
+
+First the raw datasets from the website ANALYZE BOSTON were cleaned of any missing values and then combined into a single dataset from 2015 to 2023. The data was then processed to get rid of any crimes that would not add value to the analysis.
+The new dataset was then stored as the Processed_data.csv in the Data folder.
+
+This processed dataset was then used for further analysis which included splitting the crimes into a tier list based on crime severity and each crime tier and crime type was analyzed.
+The analysis steps included exploratory data analysis to understand how the crime has developed over the years and what effect did major world incidents like the COVID-19 lockdown have on certain crimes.
+
+Further, forecasting analysis was performed for each crime type to predict the crime rates in the year 2024.
